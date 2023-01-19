@@ -1,7 +1,7 @@
 # Digital-Diary-web-application 📖📖
 ### A internet and web programming project
 
-Our project is a web application which provides users to maintain a digital diary. <br />
+This project is a web application which provides users to maintain a digital diary. <br />
 Since users would like to ensure their privacy for what they write here, appropriate functions are used to protect their data. <br />
 The project outcome is to present a more functional and efficient way to maintain their diaries than the traditional paper diaries. <br />
 
@@ -46,4 +46,6 @@ DIARY BACKGROUND COLOR:
 ![image](https://user-images.githubusercontent.com/65955491/117291007-1b345100-ae8c-11eb-81a3-ab1e401e5bcd.png)
 
 Other features include: previous diary entry details, reach us at info page, feedback form, etc. 
+
+Notes from This Author: features added such as change password, delete account (and the entries)
 
